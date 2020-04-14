@@ -1,0 +1,19 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.1",
+    "electron-packager": "^14.2.1",
+    "python-shell": "^1.0.8"
+  },
+  "devDependencies": {},
+  "description": ""
+}
